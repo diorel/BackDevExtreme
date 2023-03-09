@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TWT.Entities.DevExtreme\TWT.Entities.DevExtreme.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MethodResponse">
+      <HintPath>Helpers\MethodResponse.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>

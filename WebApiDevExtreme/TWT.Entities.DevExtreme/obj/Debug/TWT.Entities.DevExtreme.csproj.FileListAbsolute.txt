@@ -1,0 +1,5 @@
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Entities.DevExtreme\bin\Debug\TWT.Entities.DevExtreme.dll
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Entities.DevExtreme\bin\Debug\TWT.Entities.DevExtreme.pdb
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Entities.DevExtreme\obj\Debug\TWT.Entities.DevExtreme.csproj.CoreCompileInputs.cache
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Entities.DevExtreme\obj\Debug\TWT.Entities.DevExtreme.dll
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Entities.DevExtreme\obj\Debug\TWT.Entities.DevExtreme.pdb

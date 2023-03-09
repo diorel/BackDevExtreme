@@ -1,0 +1,13 @@
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\bin\Debug\netcoreapp3.1\TWT.Data.DevExtreme.deps.json
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\bin\Debug\netcoreapp3.1\TWT.Data.DevExtreme.dll
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\bin\Debug\netcoreapp3.1\TWT.Data.DevExtreme.pdb
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\bin\Debug\netcoreapp3.1\TWT.Entities.DevExtreme.dll
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\bin\Debug\netcoreapp3.1\TWT.Entities.DevExtreme.pdb
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.csproj.AssemblyReference.cache
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.GeneratedMSBuildEditorConfig.editorconfig
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.AssemblyInfoInputs.cache
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.AssemblyInfo.cs
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.csproj.CoreCompileInputs.cache
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.csproj.CopyComplete
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.dll
+C:\PracticasTwt\BackDevExtreme\WebApiDevExtreme\TWT.Data.DevExtreme\obj\Debug\netcoreapp3.1\TWT.Data.DevExtreme.pdb
